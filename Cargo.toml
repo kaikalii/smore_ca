@@ -1,0 +1,11 @@
+[package]
+authors = ['Kai Schmidt <kaikaliischmidt@gmail.com>']
+edition = '2018'
+name = 'smore_ca'
+version = '0.1.0'
+
+[dependencies]
+image = '0.23'
+piston_window = '0.120'
+rand = '0.8'
+smore.path = '../smore'
